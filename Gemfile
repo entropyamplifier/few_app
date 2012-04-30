@@ -45,4 +45,8 @@ group :test do
   gem 'rspec-rails', '2.9.0'
   gem 'webrat', '0.7.3'
   gem 'spork', '0.9.0'
+  gem 'autotest'
+  gem 'autotest-rails-pure'
+  gem 'autotest-fsevent'
+  gem 'autotest-growl'
 end
